@@ -1,0 +1,8 @@
+{
+  "appId": "com.loopspur.plantpal",
+  "appName": "PlantPal",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
