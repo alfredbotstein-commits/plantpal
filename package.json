@@ -17,6 +17,8 @@
     "@capacitor/haptics": "^5.0.8",
     "@capacitor/local-notifications": "^5.0.8",
     "@capacitor/preferences": "^5.0.8",
+    "@revenuecat/purchases-capacitor": "^12.2.1",
+    "@sentry/react": "^10.41.0",
     "dexie": "^4.3.0",
     "dexie-react-hooks": "^4.2.0",
     "react": "^19.2.0",
